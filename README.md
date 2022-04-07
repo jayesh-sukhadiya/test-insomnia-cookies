@@ -81,3 +81,8 @@ Request headers
 Refer the [api specification](#api-specification) for more info.
 
 ----------
+Reference link :
+https://github.com/Stichoza/google-translate-php
+
+---------
+
